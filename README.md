@@ -1,0 +1,2 @@
+# safelinku.js
+percobaan 
